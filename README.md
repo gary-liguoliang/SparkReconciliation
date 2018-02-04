@@ -1,4 +1,4 @@
-## Reconciliation PoC with Spark
+## Reconciliation PoC with Spark  [![Build Status](https://travis-ci.org/guoliang-dev/SparkReconciliation.svg?branch=master)](https://travis-ci.org/guoliang-dev/SparkReconciliation)
 
 
 useful links:
